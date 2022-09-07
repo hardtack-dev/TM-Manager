@@ -1,5 +1,8 @@
 # tm-manager
 
+A Desktop application that can manage the replays / maps
+(Currently postponeded)
+
 ## Project setup
 ```
 npm install
